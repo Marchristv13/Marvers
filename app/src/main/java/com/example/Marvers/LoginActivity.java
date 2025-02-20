@@ -1,4 +1,4 @@
-package com.example.calculator;
+package com.example.Marvers;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
